@@ -59,9 +59,9 @@ Pandoras is open-source and licensed under the **MIT License**. Contributions ar
 ---
 
 ## 🌍 Connect  
-📌 **GitHub Repo:** [GitHub Link Here]  
-📌 **PyPI Package:** *(Coming Soon)*  
-📌 **Author:** [Your Name]  
+📌 **GitHub Repo:** https://github.com/al2m4n/pandoras/  
+📌 **PyPI Package:** https://pypi.org/project/pandoras/  
+📌 **Author:** Arman Bahlakeh 
 
 ---
 
