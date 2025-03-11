@@ -1,6 +1,6 @@
 [project]
 name = "pandoras"
-version = "0.1.0"
+version = "0.1.1"
 description = "Undo/Redo functionality for Pandas DataFrames using Apache Arrow"
 authors = [
     {name = "al2m4n",email = "al2m4n@gmail.com"}
